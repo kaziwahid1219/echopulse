@@ -16,16 +16,16 @@ An offline-resilient, voice-first emergency response network designed to orchest
 - **Location Services:** Amazon Location Service
 
 ##  Setup & Installation
-1. **Clone the repository:**
+ **Clone the repository:**
    ```bash
-  git clone https://github.com
+   git clone https://github.com
    cd echopulse
    ```
-2. Configure your AWS credentials:
+ **Configure your AWS credentials:**
    ```bash
    aws configure
    ```
-3. Deploy the stack using AWS SAM:
+ **Deploy the stack using AWS SAM:**
    ```bash
    sam deploy --guided
    ```
