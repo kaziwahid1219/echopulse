@@ -18,7 +18,7 @@ An offline-resilient, voice-first emergency response network designed to orchest
 ##  Setup & Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+  git clone https://github.com
    cd echopulse
    ```
 2. Configure your AWS credentials:
